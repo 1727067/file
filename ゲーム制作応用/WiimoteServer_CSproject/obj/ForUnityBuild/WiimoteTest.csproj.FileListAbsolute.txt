@@ -1,0 +1,13 @@
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer\WiimoteTest.exe.config
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer\WiimoteTest.exe
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer\WiimoteTest.pdb
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.csprojAssemblyReference.cache
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.SingleWiimoteForm.resources
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.MultipleWiimoteForm.resources
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.Properties.Resources.resources
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.WiimoteInfo.resources
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.csproj.GenerateResource.cache
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.csproj.CoreCompileInputs.cache
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.csproj.CopyComplete
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.exe
+C:\Users\washi\Downloads\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\WiimoteServer_CSproject\obj\ForUnityBuild\WiimoteTest.pdb

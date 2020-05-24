@@ -1,0 +1,91 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\washi\OneDrive\デスクトップ\授業内容\3年前期\制作応用\BalanceBoardTest(Unity)(配布用)\BalanceBoardTest(Unity)(配布用)\BalanceboardTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.501000 ms
+C:/Users/washi/OneDrive/デスクトップ/授業内容/3年前期/制作応用/BalanceBoardTest(Unity)(配布用)/BalanceBoardTest(Unity)(配布用)/BalanceboardTest_Data/../WiimoteServer/WiimoteTest.exe
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init client
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GetStream Success
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+デバイスの数が足りません index(コントローラ番号[0始まり]):0 count（総コントローラ数）:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+デバイスの数が足りません index(コントローラ番号[0始まり]):0 count（総コントローラ数）:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+デバイスの数が足りません index(コントローラ番号[0始まり]):0 count（総コントローラ数）:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+adding / data.Count:1 index
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33c8 -> priority: 1 
+  Thread -> id: 2550 -> priority: 1 
+メッセージのデータ個数が不正です。データを破棄します。 個数：1正しい要素数:8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+failed to parse.index:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+メッセージのデータ個数が不正です。データを破棄します。 個数：1正しい要素数:8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+failed to parse.index:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+外部プロセスが終了しました
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+waiting for read thread kill.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+read thread killed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+tcpClient Closing...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+tcpClient Closed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
